@@ -105,7 +105,7 @@ body {
   align-items: center;
 }
 .main__input input {
-  width: 100%;
+  width: 304px;
   border: 0.625px solid var(--text-dark-blue);
   box-shadow: 2px 3px 6px var(--box-shadow);
   border-radius: 3.125px;
