@@ -514,6 +514,7 @@ body {
   }
   .content__image img {
     width: 100%;
+    transform: translateY(40%);
   }
   .content__text h3 {
     font-size: 40px;
